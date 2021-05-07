@@ -151,7 +151,32 @@ button{
 }
 
 
+.fa-github{
+    font-size: 35px;
+    color: #ccf2f4;
+    text-decoration: none;
+}
 
+.fa-whatsapp{
+    padding-left: 50px;
+    font-size: 35px;
+    color: #ccf2f4;
+    text-decoration: none;
+}
+
+.fa-facebook{
+    padding-left: 50px;
+    font-size: 35px;
+    color: #ccf2f4;
+    text-decoration: none;
+}
+
+.fa-instagram{
+    padding-left: 50px;
+    font-size: 35px;
+    color: #ccf2f4;
+    text-decoration: none;
+}
 
 
 
